@@ -1,7 +1,7 @@
 export const Button = () => {
     return (
         <div>
-            <button>Click</button>
+            <button>Click 1</button>
         </div>
     )
 };
